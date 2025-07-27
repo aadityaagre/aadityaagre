@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya Agre</h1>
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning __Machine Learning__
 
 - 📫 How to reach me **aaditya.agre@gmail.com**
 
